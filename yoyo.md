@@ -1,4 +1,4 @@
-# Yo! yo! yo!
+# YoYo
 
 Hey! Hey! Hey!
 
