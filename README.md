@@ -2,10 +2,10 @@
 id: accessibility
 title: Accessibility
 permalink: docs/accessibility.html
-description: wefrdbgbr3rgrg
+description: asdfasdf jkl;jkl;kjkl; jk;jk;
 ---
 
-# 1230000
+# The new tit asdfasdfasdf bhjkjlk;jlkjl lkj ;lkj ;lkj  jkl;k
 
 ## gggWhy Aceecessibility?g
 
@@ -17,7 +17,7 @@ fdbfbdbddbwfewf
 
 {% api-method method="get" host="" path="" %}
 {% api-method-summary %}
-
+Get the fucking repo
 {% endapi-method-summary %}
 
 {% api-method-description %}
