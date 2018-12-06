@@ -4,7 +4,7 @@ title: Accessibility
 permalink: docs/accessibility.html
 ---
 
-# The new title 1 <3
+# The another new title
 
 ## Why Accessibility?
 
