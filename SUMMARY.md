@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The another new title](README.md)
+* [12e3](README.md)
 * [b](b/README.md)
   * [c](b/c/README.md)
     * [d](b/c/d/README.md)

@@ -2,11 +2,18 @@
 id: accessibility
 title: Accessibility
 permalink: docs/accessibility.html
+description: wef
 ---
 
-# The another new title
+# 12e3
 
-## Why Accessibility?
+## Why Aceecessibility?
+
+sdfsfwewgwegv
+
+wfewf
+
+
 
 {% api-method method="get" host="" path="" %}
 {% api-method-summary %}
