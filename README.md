@@ -8,8 +8,6 @@ permalink: docs/accessibility.html
 
 ## Why Accessibility?
 
-
-
 {% api-method method="get" host="" path="" %}
 {% api-method-summary %}
 
@@ -34,7 +32,7 @@ permalink: docs/accessibility.html
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
