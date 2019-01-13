@@ -1,14 +1,5 @@
 # BCD
 
-yeah
-
-asdfasdfasdf
-
-jkl;jk;
-
-Yeah from latest branch
-
-Cool branch feature Now
 
 ## Why Accessibility?
 
